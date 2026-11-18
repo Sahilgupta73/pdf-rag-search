@@ -1,0 +1,9 @@
+.env
+.env.*
+venv/
+.venv/
+__pycache__/
+.vscode/
+saved_model/
+chroma_db*/
+*.pdf
